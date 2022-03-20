@@ -4,6 +4,8 @@ I couldn't get the HDMI examples for the Digilent Arty Z7 20 running, so I wrote
 ## Introduction
 I built this in order to try the HDMI output of my Digilent Arty Z7 20 board. Also, because I wanted to try Vivado version control with Git. I hope it works. If there are any problems with building the project, please message me.
 
+![image](https://user-images.githubusercontent.com/9955664/159184366-bbd6c1af-cc93-4db5-a4cb-837d844929e2.png)
+
 ## Requisites
 - Digilent Arty Z7 20 Development board; connected to you PC via USB and to a TV via HDMI
 - Vivado 2021.2
